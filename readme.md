@@ -2,26 +2,26 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/empty.png)
+![A description of my image](images/LineFollower.jpg)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: ATmega328 (Arduino Nano)
 
-motors: 
+motors: JGA12-N20-30 
 
-h-bridge:
+h-bridge:TB6612FNG Motordriver
 
-sensors:
+sensors: QTR-8A/8x-ir-lijn-tracking-module
 
-batteries:
+batteries: lithium ions 
 
-wireless communication:
+wireless communication: HC-05
 
-distance sensor - motors:
+distance sensor - motors: 7cm  
 
-weight:
+weight: /
 
-speed: 
+speed: 0.45 m/s
 
